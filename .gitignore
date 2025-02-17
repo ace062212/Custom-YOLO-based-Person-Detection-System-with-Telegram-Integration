@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# 모델 파일
+*.pt
+*.weights
+
+# 영상 파일
+*.mp4
+*.avi
+*.mov
+
+# 노트북 체크포인트
+.ipynb_checkpoints/
+
+# 가상환경
+venv/
+env/
