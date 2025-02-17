@@ -84,7 +84,6 @@ python src/video_detection.py --video_path path/to/video.mp4
 - [발표 자료](https://drive.google.com/file/d/1QrfBET8VES3crSho8U7a9lS_zOIV352e/view?usp=sharing)
 - [데모 노트북](notebooks/person_detection_demo.ipynb)
 
-- 
 ## 🛠️ 기술 스택
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
