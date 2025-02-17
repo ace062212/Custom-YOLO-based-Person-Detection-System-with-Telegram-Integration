@@ -76,7 +76,7 @@ python src/video_detection.py --video_path path/to/video.mp4
 
 ## 📊 프로젝트 자료
 - [시연 영상](your_video_link)
-- [발표 자료](your_presentation_link)
+- [발표 자료]([your_presentation_link](https://drive.google.com/file/d/1QrfBET8VES3crSho8U7a9lS_zOIV352e/view?usp=sharing))
 - [데모 노트북](notebooks/person_detection_demo.ipynb)
 
 ## 🛠️ 기술 스택
