@@ -16,6 +16,11 @@ YOLO와 텔레그램을 활용한 실시간 사람 감지 및 알림 시스템�
 - Roboflow 플랫폼 활용
 - 직접 데이터셋 라벨링 수행
 - 다양한 환경의 이미지 수집
+#### 데이터셋 정보
+- 총 이미지 수: 1,000장+
+- 학습/검증/테스트 비율: 70:20:10
+- 데이터 증강 기법: 회전, 밝기 조정, 좌우 반전
+
 
 ### 2. 모델 학습
 - YOLOv8 아키텍처 기반
@@ -75,10 +80,11 @@ python src/video_detection.py --video_path path/to/video.mp4
 
 
 ## 📊 프로젝트 자료
-- [시연 영상](your_video_link)
-- [발표 자료]([your_presentation_link](https://drive.google.com/file/d/1QrfBET8VES3crSho8U7a9lS_zOIV352e/view?usp=sharing))
+- [시연 영상](https://drive.google.com/file/d/1aNebAHnF75TrN_dFxguPnt89O7jHPqrN/view?usp=sharing)
+- [발표 자료](https://drive.google.com/file/d/1QrfBET8VES3crSho8U7a9lS_zOIV352e/view?usp=sharing)
 - [데모 노트북](notebooks/person_detection_demo.ipynb)
 
+- 
 ## 🛠️ 기술 스택
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
