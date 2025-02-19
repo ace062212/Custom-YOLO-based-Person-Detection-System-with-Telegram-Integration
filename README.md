@@ -1,4 +1,15 @@
 # 🎥 Real-time Person Detection System
+# 🎥 Real-time Person Detection System
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Custom-red?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.7.0-green?style=for-the-badge&logo=opencv&logoColor=white)
+![Accuracy](https://img.shields.io/badge/Accuracy-90%25+-success?style=for-the-badge)
+![FPS](https://img.shields.io/badge/FPS-30+-orange?style=for-the-badge)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ace062212/person-detection-system?style=for-the-badge)](https://github.com/ace062212/person-detection-system)
+![Development Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
   <img src="demo/images/demo.gif" alt="Demo" width="600"/>
