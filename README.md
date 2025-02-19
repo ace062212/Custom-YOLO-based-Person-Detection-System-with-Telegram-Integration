@@ -6,9 +6,9 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-90%25+-success?style=for-the-badge)
 ![FPS](https://img.shields.io/badge/FPS-30+-orange?style=for-the-badge)
 
-[![GitHub stars](https://img.shields.io/github/stars/ace062212/korea-population-visualization?style=social)](https://github.com/ace062212/korea-population-visualization/stargazers)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ace062212/korea-population-visualization)
-![GitHub last commit](https://img.shields.io/github/last-commit/ace062212/korea-population-visualization)
+![GitHub stars](https://img.shields.io/github/stars/ace062212/korea-population-visualization?style=for-the-badge&logo=github)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ace062212/korea-population-visualization?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ace062212/korea-population-visualization?style=for-the-badge)
 
 <p align="center">
   <img src="demo/images/demo.gif" alt="Demo" width="600"/>
