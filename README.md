@@ -1,5 +1,4 @@
 # 🎥 Real-time Person Detection System
-# 🎥 Real-time Person Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Custom-red?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -7,7 +6,9 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-90%25+-success?style=for-the-badge)
 ![FPS](https://img.shields.io/badge/FPS-30+-orange?style=for-the-badge)
 
-
+[![GitHub stars](https://img.shields.io/github/stars/ace062212/korea-population-visualization?style=social)](https://github.com/ace062212/korea-population-visualization/stargazers)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ace062212/korea-population-visualization)
+![GitHub last commit](https://img.shields.io/github/last-commit/ace062212/korea-population-visualization)
 
 <p align="center">
   <img src="demo/images/demo.gif" alt="Demo" width="600"/>
