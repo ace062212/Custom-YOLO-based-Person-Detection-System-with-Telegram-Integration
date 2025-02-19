@@ -7,9 +7,7 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-90%25+-success?style=for-the-badge)
 ![FPS](https://img.shields.io/badge/FPS-30+-orange?style=for-the-badge)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ace062212/person-detection-system?style=for-the-badge)](https://github.com/ace062212/person-detection-system)
-![Development Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 
 <p align="center">
   <img src="demo/images/demo.gif" alt="Demo" width="600"/>
