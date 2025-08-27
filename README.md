@@ -7,6 +7,9 @@
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
+**과목:** 이미지분석 (전공선택 3학점)
+**학기:** 2학년 2학기
+**성적**: A+
 
 ## 🤔 왜 이 프로젝트를 시작했을까?
 
