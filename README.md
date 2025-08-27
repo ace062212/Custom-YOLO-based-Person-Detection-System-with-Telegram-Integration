@@ -23,7 +23,15 @@
 
 **개발 기간**: 2023년 11월 ~ 12월  
 **핵심 키워드**: 실용성, 접근성, 실시간성
-
+---
+       154 -  ## 📊 프로젝트 자료
+       155 -  - [시연 
+     영상](https://drive.google.com/file/d/1aNebAHnF75TrN_dFxguPnt89O7jHPqrN/v
+           - iew?usp=sharing)
+       156 -  - [발표 
+     자료](https://drive.google.com/file/d/1QrfBET8VES3crSho8U7a9lS_zOIV352e/v
+           - iew?usp=sharing)
+       157 -  - [데모 노트북](notebooks/person_detection_demo.ipynb)
 ---
 
 ## 💡 실제 사용 시나리오
