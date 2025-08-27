@@ -25,8 +25,8 @@
 **핵심 키워드**: 실용성, 접근성, 실시간성
 ---
 ## 📊 프로젝트 자료
-[시연 영상](https://drive.google.com/file/d/1aNebAHnF75TrN_dFxguPnt89O7jHPqrN/v - iew?usp=sharing)
-[발표 자료](https://drive.google.com/file/d/1QrfBET8VES3crSho8U7a9lS_zOIV352e/v- iew?usp=sharing)
+[시연 영상](https://drive.google.com/file/d/1aNebAHnF75TrN_dFxguPnt89O7jHPqrN/view?usp=sharing)
+[발표 자료](https://drive.google.com/file/d/1QrfBET8VES3crSho8U7a9lS_zOIV352e/view?usp=sharing)
 [데모 노트북](notebooks/person_detection_demo.ipynb)
 ---
 
